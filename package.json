@@ -21,7 +21,7 @@
   "dependencies": {
     "convict": "^4.4.1",
     "express": "^4.16.4",
-    "keycloak-connect": "^4.8.3"
+    "keycloak-connect": "^21.0.1"
   },
   "devDependencies": {
     "cors": "^2.8.5",
